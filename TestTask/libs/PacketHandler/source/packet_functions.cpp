@@ -6,8 +6,8 @@ std::vector<Packet> make_vector_packet(std::string str, size_t num){
         throw EmptyFileException("Пустой файл");
     }
 
-    if (str.size() < num){
-        throw PacketsNumberException("Слишком много пакетов");
+    if (str.size() < num || num <= 0){
+        throw PacketsNumberException("Неверное число пакетов");
     }
 
     size_t size_of_packet = str.size() / num;
