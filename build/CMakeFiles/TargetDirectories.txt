@@ -1,0 +1,17 @@
+/home/croco/mydir/packet_handler/build/CMakeFiles/tddProject.dir
+/home/croco/mydir/packet_handler/build/CMakeFiles/test.dir
+/home/croco/mydir/packet_handler/build/CMakeFiles/edit_cache.dir
+/home/croco/mydir/packet_handler/build/CMakeFiles/rebuild_cache.dir
+/home/croco/mydir/packet_handler/build/googletests/CMakeFiles/test.dir
+/home/croco/mydir/packet_handler/build/googletests/CMakeFiles/edit_cache.dir
+/home/croco/mydir/packet_handler/build/googletests/CMakeFiles/rebuild_cache.dir
+/home/croco/mydir/packet_handler/build/googletests/gtest/CMakeFiles/gtest.dir
+/home/croco/mydir/packet_handler/build/googletests/gtest/CMakeFiles/test.dir
+/home/croco/mydir/packet_handler/build/googletests/gtest/CMakeFiles/edit_cache.dir
+/home/croco/mydir/packet_handler/build/googletests/gtest/CMakeFiles/rebuild_cache.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/exampleProject.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/exampleProject_t.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/exampleProject_tconf.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/test.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/edit_cache.dir
+/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler/CMakeFiles/rebuild_cache.dir

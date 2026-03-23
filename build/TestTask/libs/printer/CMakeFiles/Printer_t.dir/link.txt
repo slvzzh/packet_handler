@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/Printer_t.dir/link.d CMakeFiles/Printer_t.dir/test/main.cpp.o CMakeFiles/Printer_t.dir/test/printer_test.cpp.o -o ../../../test/Printer_t  -Wl,-rpath,/home/croco/mydir/packet_handler/build/TestTask/libs/printer:/home/croco/mydir/packet_handler/build/googletests/gtest libPrinter.so ../../../googletests/gtest/libgtest.so

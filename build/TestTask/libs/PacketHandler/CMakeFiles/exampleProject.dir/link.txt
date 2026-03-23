@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wl,--dependency-file=CMakeFiles/exampleProject.dir/link.d -shared -Wl,-soname,libexampleProject.so -o libexampleProject.so CMakeFiles/exampleProject.dir/source/main.cpp.o CMakeFiles/exampleProject.dir/source/packet_functions.cpp.o

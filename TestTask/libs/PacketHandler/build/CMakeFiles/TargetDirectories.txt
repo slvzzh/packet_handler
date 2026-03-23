@@ -1,0 +1,3 @@
+/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/build/CMakeFiles/exampleProject.dir
+/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/build/CMakeFiles/edit_cache.dir
+/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/build/CMakeFiles/rebuild_cache.dir

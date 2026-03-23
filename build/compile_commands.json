@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/croco/mydir/packet_handler/build",
+  "command": "/usr/bin/c++  -I/home/croco/mydir/packet_handler/build -I/home/croco/mydir/packet_handler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include  -o CMakeFiles/tddProject.dir/main.cpp.o -c /home/croco/mydir/packet_handler/main.cpp",
+  "file": "/home/croco/mydir/packet_handler/main.cpp",
+  "output": "CMakeFiles/tddProject.dir/main.cpp.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/googletests/gtest",
+  "command": "/usr/bin/c++ -Dgtest_EXPORTS -I/home/croco/mydir/packet_handler/build/googletests/gtest -I/home/croco/mydir/packet_handler/googletests/gtest -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock -I/home/croco/mydir/packet_handler/googletests/gtest/gtest -I/home/croco/mydir/packet_handler/googletests/gtest/gtest/include -std=gnu++11 -fPIC -o CMakeFiles/gtest.dir/gmock/src/gmock-all.cc.o -c /home/croco/mydir/packet_handler/googletests/gtest/gmock/src/gmock-all.cc",
+  "file": "/home/croco/mydir/packet_handler/googletests/gtest/gmock/src/gmock-all.cc",
+  "output": "googletests/gtest/CMakeFiles/gtest.dir/gmock/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/googletests/gtest",
+  "command": "/usr/bin/c++ -Dgtest_EXPORTS -I/home/croco/mydir/packet_handler/build/googletests/gtest -I/home/croco/mydir/packet_handler/googletests/gtest -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock -I/home/croco/mydir/packet_handler/googletests/gtest/gtest -I/home/croco/mydir/packet_handler/googletests/gtest/gtest/include -std=gnu++11 -fPIC -o CMakeFiles/gtest.dir/gtest/src/gtest-all.cc.o -c /home/croco/mydir/packet_handler/googletests/gtest/gtest/src/gtest-all.cc",
+  "file": "/home/croco/mydir/packet_handler/googletests/gtest/gtest/src/gtest-all.cc",
+  "output": "googletests/gtest/CMakeFiles/gtest.dir/gtest/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler",
+  "command": "/usr/bin/c++ -DexampleProject_EXPORTS -I/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/lib -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include/exampleProject -fPIC -o CMakeFiles/exampleProject.dir/source/main.cpp.o -c /home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/source/main.cpp",
+  "file": "/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/source/main.cpp",
+  "output": "TestTask/libs/PacketHandler/CMakeFiles/exampleProject.dir/source/main.cpp.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler",
+  "command": "/usr/bin/c++ -DexampleProject_EXPORTS -I/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/lib -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include/exampleProject -fPIC -o CMakeFiles/exampleProject.dir/source/packet_functions.cpp.o -c /home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/source/packet_functions.cpp",
+  "file": "/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/source/packet_functions.cpp",
+  "output": "TestTask/libs/PacketHandler/CMakeFiles/exampleProject.dir/source/packet_functions.cpp.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler",
+  "command": "/usr/bin/c++  -I/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/googletests/gtest/gtest/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock/include  -o CMakeFiles/exampleProject_t.dir/test/example_test.cpp.o -c /home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/test/example_test.cpp",
+  "file": "/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/test/example_test.cpp",
+  "output": "TestTask/libs/PacketHandler/CMakeFiles/exampleProject_t.dir/test/example_test.cpp.o"
+},
+{
+  "directory": "/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler",
+  "command": "/usr/bin/c++  -I/home/croco/mydir/packet_handler/build/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler -I/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/include -I/home/croco/mydir/packet_handler/googletests/gtest/gtest/include -I/home/croco/mydir/packet_handler/googletests/gtest/gmock/include  -o CMakeFiles/exampleProject_t.dir/test/main.cpp.o -c /home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/test/main.cpp",
+  "file": "/home/croco/mydir/packet_handler/TestTask/libs/PacketHandler/test/main.cpp",
+  "output": "TestTask/libs/PacketHandler/CMakeFiles/exampleProject_t.dir/test/main.cpp.o"
+}
+]
